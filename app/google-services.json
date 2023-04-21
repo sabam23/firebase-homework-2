@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "242219045730",
+    "project_id": "btu-android",
+    "storage_bucket": "btu-android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242219045730:android:3cbe83994acf0ea384123b",
+        "android_client_info": {
+          "package_name": "com.example.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "242219045730-fg7tslf355ctlk0miur4brkfvqnr21sh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsiZ5wWiQf_F2qYLaSz-fZcHAMbOC4Uuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "242219045730-fg7tslf355ctlk0miur4brkfvqnr21sh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
